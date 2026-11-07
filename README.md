@@ -54,8 +54,8 @@ Le fichier Power BI (.pbix) est disponible dans ce dépôt. Il peut être télé
 - Aide à la décision
 
 ## Aperçu du tableau de bord
-![Vue 1](https://github.com/user-attachments/assets/87fdfe58-edeb-4025-bfdd-7d3c3cabe0e7)
+<img width="642" height="854" alt="Capture d&#39;écran 2026-11-07 121638" src="https://github.com/user-attachments/assets/b9f309ab-42b2-4f18-84a9-0f6e64190181" />
+<img width="636" height="828" alt="Capture d&#39;écran 2026-11-07 121715" src="https://github.com/user-attachments/assets/96576589-4e35-4311-bbef-6cf269b03d6c" />
 
-![Vue 2](https://github.com/user-attachments/assets/502a0d5c-866e-4039-a2f3-e9e8b1725a57)
 
 Projet personnel de mise en pratique des outils de Business Intelligence dans le cadre du développement de compétences en analyse de données et en Supply Chain & Operations Management.
